@@ -1,2 +1,2 @@
 # Sports-Statistics-ML-AI Project
-Repo of relevant files for Tailgate Tips
+Repo of files for predictive modeling for sports gambling. 
